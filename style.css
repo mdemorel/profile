@@ -46,7 +46,6 @@ a {
 .round-profile {
   width: 175px;
   border-radius: 50%;
-  text-align: content;
   display: flex;
   margin: auto;
 }
